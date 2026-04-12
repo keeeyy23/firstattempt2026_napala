@@ -26,3 +26,7 @@ npm run dev
 
 **Screenshot 2 - Full Page View**
 ![Job Posting Page 2](image/screenshot2.png)
+
+**Screenshot 3 - Approval Confirmation**
+
+![Screenshot](images/screenshot3.png)
