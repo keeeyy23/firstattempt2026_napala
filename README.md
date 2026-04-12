@@ -2,33 +2,24 @@
 
 #### Framework: Nuxt JS
 
-#### Module: Document Request
+#### Module: Module 4 - Job Posting
 
 #### Installation
 
-To replicate and run this project follow the following steps using Windows Powershell:
-
 ```bash
-winget install OpenJS.NodeJS.LTS
-nvm install lts
-nvm use lts
-git clone <your-repo-link-here>
-cd firstattempt2026_lastname
+git clone https://github.com/keeeyy23/firstattempt2026_napala.git
+cd firstattempt2026_napala
 npm install
 npm run dev
 ```
 
 ### AI Tools:
-
-1. Chat GPT
-2. Claude (Premium)
-3. VS Code - Github CoPilot
+1. Claude (Premium)
+2. ChatGPT
+3. VS Code - Github Copilot
 
 ### Prompt:
+"Create a Job Posting web application using Nuxt JS for the Blue Knight Career Passport app. Include a form with Job Title, Employment Type, Required Degree, Work Setup toggles, Salary Range, Skills tags, Alumni-Exclusive toggle, and Submit for Admin Approval. Add a live preview sidebar and hiring team panel. Use a dark navy blue theme."
 
-<Paste your main prompt here — the one that generated the full working project>
-
-#### Screenshots
-
-![Screenshot 1](images/screenshot1.png)
-![Screenshot 2](images/screenshot2.png)
+### Screenshots
+![Job Posting Page](images/screenshot1.png)
