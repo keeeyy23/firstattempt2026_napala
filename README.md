@@ -29,4 +29,4 @@ npm run dev
 
 **Screenshot 3 - Approval Confirmation**
 
-![Screenshot](images/screenshot3.png)
+![Screenshot](image/screenshot3.png)
