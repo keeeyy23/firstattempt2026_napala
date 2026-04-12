@@ -14,7 +14,7 @@ npm run dev
 ```
 
 ### AI Tools:
-1. Claude (Premium)
+1. Claude 
 
 ### Prompt:
 "Create a Job Posting web application using Nuxt JS for the Blue Knight Career Passport app. Include a form with Job Title, Employment Type, Required Degree, Work Setup toggles, Salary Range, Skills tags, Alumni-Exclusive toggle, and Submit for Admin Approval. Add a live preview sidebar and hiring team panel. Use a dark navy blue theme."
