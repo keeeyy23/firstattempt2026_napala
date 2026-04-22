@@ -1,10 +1,6 @@
 <script setup>
-import heroImage from '~/assets/login-hero.jpg'
-import googleLogo from '~/assets/logo-google.png'
-
-function signIn() {
-  navigateTo('/passport')
-}
+import heroImage from '~~/assets/login-hero.jpg'
+import googleLogo from '~~/assets/logo-google.png'
 </script>
 
 <template>
@@ -49,10 +45,10 @@ function signIn() {
           <a class="forgot-link" href="#">Forgot Password?</a>
         </div>
 
-        <button class="primary-btn" @click="signIn">
+        <NuxtLink class="primary-btn" to="/passport">
           <span>Sign In</span>
           <span>-&gt;</span>
-        </button>
+        </NuxtLink>
 
         <div class="separator">Or Continue With</div>
 
