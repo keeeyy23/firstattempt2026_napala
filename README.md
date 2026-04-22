@@ -47,8 +47,14 @@ npm run preview
 **Screenshot 1 - Login Screen**  
 ![Login Screen](image/screenshot1.png)
 
-**Screenshot 2 - Career Passport Interface**  
-![Career Passport Interface](image/screenshot2.png)
+**Screenshot 2 - Job Search Screen**  
+![Job Search Screen](image/screenshot2.png)
 
-**Screenshot 3 - Application Flow / Status Screen**  
-![Application Flow](image/screenshot3.png)
+**Screenshot 3 - Instant Application Screen**  
+![Instant Application Screen](image/screenshot3.png)
+
+**Screenshot 4 - Application Status Screen**  
+![Application Status Screen](image/screenshot4.png)
+
+**Screenshot 5 - Digital Vault Screen**  
+![Digital Vault Screen](image/screenshot5.png)
