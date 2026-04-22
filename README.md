@@ -2,7 +2,7 @@
 
 #### Framework: Nuxt JS
 
-#### Module: Activity 14 - PWA Conversion
+#### Module: PWA Conversion
 
 #### Installation
 
