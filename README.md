@@ -44,6 +44,9 @@ npm run preview
 
 #### Screenshots
 
+https://github.com/keeeyy23/firstattempt2026_napala/tree/feature/pwa-ready
+https://youtu.be/uo2BOW4rjXc
+
 **Screenshot 1 - Login Screen**  
 ![Login Screen](image/screenshot1.png)
 
